@@ -1,0 +1,49 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/saoma/saoma",
+			"style": {
+				"navigationBarTitleText": "扫码点餐",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/select/select",
+			"style": {
+				"navigationBarTitleText": "选择人数",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+			}
+
+		}, {
+			"path": "pages/dish/dish",
+			"style": {
+				"navigationBarTitleText": "xxx店铺",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#f7d45f"
+			}
+		}, {
+			"path": "pages/order/order",
+			"style": {
+				"navigationBarTitleText": "订单详情",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#f7d45f"
+			}
+
+		}, {
+			"path": "pages/order-list/order-list",
+			"style": {
+				"navigationBarTitleText": "订单列表",
+				"enablePullDownRefresh": false
+			}
+
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "ikun点餐",
+		"navigationBarBackgroundColor": "#FFF",
+		"backgroundColor": "#FFF"
+	},
+	"uniIdRouter": {}
+}

@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/saoma/saoma",
+    "pages/select/select",
+    "pages/dish/dish",
+    "pages/order/order",
+    "pages/order-list/order-list"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "ikun点餐",
+    "navigationBarBackgroundColor": "#FFF",
+    "backgroundColor": "#FFF"
+  },
+  "usingComponents": {}
+}

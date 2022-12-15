@@ -1,0 +1,29 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": false,
+    "minified": false,
+    "newFeature": true,
+    "bigPackageSizeSupport": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.25.4",
+  "appid": "wx5f96f51bdf9d3676",
+  "projectname": "diancan-user",
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}

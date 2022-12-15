@@ -1,0 +1,31 @@
+
+	/*每个页面公共css */
+
+/* 底部淡入 */
+.coup-anim {
+  animation: fadeIn 0.4s 0.1s ease both;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(400rpx);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.skeleton-index {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ffffff;
+  z-index: 99;
+  overflow: hidden;
+}
+page{--status-bar-height:25px;--top-window-height:0px;--window-top:0px;--window-bottom:0px;--window-left:0px;--window-right:0px;--window-magin:0px}[data-c-h="true"]{display: none !important;}

@@ -1,0 +1,1 @@
+<view><view class="my-order-view"><view class="my-order-name"><text>云南耿哥餐饮店</text><text>已完成</text></view><view class="my-order-number"><view><view><text>桌台名称 ：</text><text>001</text></view><view class="my-order-time"><text>下单时间 ：</text><text>2021-10-10</text></view></view><view class="my-order-price">¥100</view></view></view><view style="height:100rpx"></view></view>
